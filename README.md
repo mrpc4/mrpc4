@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Chima Anthony Ukachukwu!
 
-<!--
-**mrpc4/mrpc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Information Technology Support Specialist | Cybersecurity Enthusiast | Future Cloud Defender ☁️
+- 🎯 Passionate about cybersecurity, cloud, and automation.
+- 📚 Always learning and improving my skills in Python, cybersecurity, and IT operations.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools
+- Python, Bash
+- Git, GitHub
+- Linux Administration
+- Cybersecurity Fundamentals (Threat Hunting, Vulnerability Management)
+- Networking Basics (TCP/IP, DNS, Firewalls)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrpc4&show_icons=true&theme=default)
+
+## ✨ Fun Fact
+I enjoy building simple tech solutions that make a big impact!
+
+---
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/chima-anthony-u/)
